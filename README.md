@@ -1,3 +1,3 @@
-<details><summary>English</summery><p>
+<details><summary>English</summery>
 this is english
-</p></details>
+</details>
